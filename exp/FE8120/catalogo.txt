@@ -1,3 +1,0 @@
-distance	action	experiment	type	key	value
-2	DT	DT0001	file	dataset	~/buckets/b1/exp/DT0001/paquete_premium.csv.gz
-1	FE	FE8120	file	dataset	~/buckets/b1/exp/FE8120/paquete_premium_ext.csv.gz
