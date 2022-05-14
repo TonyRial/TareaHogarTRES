@@ -1,0 +1,38 @@
+         used (Mb) gc trigger (Mb) max used (Mb)
+Ncells 270673 14.5     665780 35.6   409101 21.9
+Vcells 451533  3.5    8388608 64.0  1819399 13.9
+Loading required package: data.table
+Loading required package: primes
+Loading required package: lightgbm
+Loading required package: DiceKriging
+Loading required package: mlrMBO
+Loading required package: mlr
+Loading required package: ParamHelpers
+Warning message: 'mlr' is in 'maintenance-only' mode since July 2019.
+Future development will only happen in 'mlr3'
+(<https://mlr3.mlr-org.com>). Due to the focus on 'mlr3' there might be
+uncaught bugs meanwhile in {mlr} - please consider switching.
+Loading required package: smoof
+Loading required package: checkmate
+
+Attaching package: ‘checkmate’
+
+The following object is masked from ‘package:DiceKriging’:
+
+    checkNames
+
+Warning message:
+In fun(libname, pkgname) : couldn't connect to display ":0"
+Loading required package: rlist
+Loading required package: yaml
+Loading required package: mlflow
+             used    (Mb) gc trigger    (Mb)   max used    (Mb)
+Ncells    2159381   115.4    4340922   231.9    2645780   141.3
+Vcells 1419935035 10833.3 4289277912 32724.6 4283700750 32682.1
+Computing y column(s) for design. Not provided.
+Error: API request to endpoint 'experiments/set-experiment-tag' failed with error code 500. Reponse body: '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+'
+Execution halted
