@@ -1,0 +1,6 @@
+distance	action	experiment	type	key	value
+2	FE	FE8120	file	dataset	~/buckets/b1/exp/FE8120/paquete_premium_ext.csv.gz
+3	DT	DT0001	file	dataset	~/buckets/b1/exp/DT0001/paquete_premium.csv.gz
+1	TS	TS8210	file	train_strategy	~/buckets/b1/exp/TS8210/TS_train_strategy.csv.gz
+1	TS	TS8210	file	train_final	~/buckets/b1/exp/TS8210/TS_train_final.csv.gz
+1	TS	TS8210	file	future_data	~/buckets/b1/exp/TS8210/TS_future_data.csv.gz
