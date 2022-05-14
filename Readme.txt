@@ -7,3 +7,4 @@ cp: failed to close '/media/expshared/hecaeventos/exp/FE8120/log.txt': No space 
 cp: failed to access '/media/expshared/hecaeventos/exp/TS8210/': No such file or directory
 2. Las carpetas *_NN donde NN es un nro entero secuencial son las resultantes de las corridas
 3. Entre los archivos para subir al github se encontraban algunos que superan el tamaño de 25MB (permitido por github) por lo cual no se subieron pero se guardó en respaldo.
+4. cada corrida completa consta de una carpeta NNN.Corrida con los resultados, el FE8120.yml correspondiente y el z912_FE_desborde.r.
