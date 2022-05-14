@@ -1,0 +1,20 @@
+         used (Mb) gc trigger (Mb) max used (Mb)
+Ncells 270673 14.5     665780 35.6   409101 21.9
+Vcells 451533  3.5    8388608 64.0  1819399 13.9
+Loading required package: data.table
+Loading required package: Rcpp
+Loading required package: rlist
+Loading required package: yaml
+Loading required package: lightgbm
+Loading required package: mlflow
+La cantidad de campos es  160 
+La cantidad de campos es  160 
+ATENCION, hay 69 valores infinitos en tu dataset. Seran pasados a NA
+ATENCION, hay 2914089 valores NaN 0/0 en tu dataset. Seran pasados arbitrariamente a 0
+Si no te gusta la decision, modifica a gusto el programa!
+
+La cantidad de campos es  213 
+Warning message:
+In `[.data.table`(dataset, cliente_antiguedad == 3, `:=`(ctrx_quarter_normalizado,  :
+  52.800000 (type 'double') at RHS position 1 truncated (precision lost) when assigning to type 'integer' (column 161 named 'ctrx_quarter_normalizado')
+La cantidad de campos es  1049 
