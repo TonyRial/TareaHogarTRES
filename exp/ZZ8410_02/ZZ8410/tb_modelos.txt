@@ -1,4 +1,0 @@
-archivo	iteracion_bayesiana	ganancia
-FM_lightgbm_103.model	103	15682000
-FM_lightgbm_068.model	68	15376000
-FM_lightgbm_072.model	72	15254000
