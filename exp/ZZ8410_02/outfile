@@ -1,0 +1,19 @@
+         used (Mb) gc trigger (Mb) max used (Mb)
+Ncells 270673 14.5     665780 35.6   409101 21.9
+Vcells 451533  3.5    8388608 64.0  1819399 13.9
+Loading required package: data.table
+Loading required package: primes
+Loading required package: lightgbm
+Loading required package: rlist
+Loading required package: yaml
+Loading required package: mlflow
+[LightGBM] [Warning] Unknown parameter: experimento
+[LightGBM] [Warning] Unknown parameter: experimento
+[LightGBM] [Warning] Unknown parameter: experimento
+Warning messages:
+1: In lgb.get.default.num.threads() :
+  Optional package 'RhpcBLASctl' not found. Will use default number of OpenMP threads.
+2: In lgb.get.default.num.threads() :
+  Optional package 'RhpcBLASctl' not found. Will use default number of OpenMP threads.
+3: In lgb.get.default.num.threads() :
+  Optional package 'RhpcBLASctl' not found. Will use default number of OpenMP threads.
